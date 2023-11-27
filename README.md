@@ -18,10 +18,14 @@ You can click the Preview link to take a look at your changes.
 </h1>
 <p>
    Hi there! I'm a front-end web developer with a passion for creating beautiful, responsive, and user-friendly websites. My attention to detail ensures that every project I work on is polished and professional, and my artistic background allows me to bring a unique perspective to the table.
+
+   💡 What I Do: I specialize in translating designs into pixel-perfect, functional websites and web applications. From concept to deployment, I enjoy optimizing code for performance and accessibility while ensuring a seamless user experience across various devices and browsers.
+
+🌐 Let's Connect: I'm enthusiastic about connecting with fellow developers, sharing knowledge, and contributing to the vibrant developer community. Feel free to explore my repositories and reach out for collaborations, discussions, or just to say hello!
+
+
 </p>
-<p>
-   Whether I am designing a new website from scratch, optimizing existing code for better performance, or creating custom functionalities with PHP and MySQL, always strive to produce work that is both functional and aesthetically pleasing. I believe that good web design is about more than just making things look pretty; it's about creating an experience that engages and delights users.
-</p>
+
 <p>
    I am always looking for new challenges and opportunities to improve my skills and learn new technologies. Motivated, open-minded, and team-oriented with the flexibility to adapt to a variety of working environments.
 </p>
@@ -38,9 +42,3 @@ You can click the Preview link to take a look at your changes.
    <img src="Images/react.png" width="60" height="60">
 </p>
 <br>
-<p>
-   Get In Touch If you're interested in working with me 
-</p>
-<p align="center">
-   <img src="Images/finger.png" align="center">
-</p>
