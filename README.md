@@ -39,6 +39,6 @@ You can click the Preview link to take a look at your changes.
    <img src="Images/mysql.png" width="60" height="60">
    <img src="Images/visual stodio.png" width="60" height="60">
    <img src="Images/git.png" width="60" height="60">
-   <img src="Images/react.png" width="60" height="60">
+   <img src="Images/282599.webp" width="60" height="60">
 </p>
 <br>
