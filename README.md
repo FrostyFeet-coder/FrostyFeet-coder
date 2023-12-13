@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
    <img src="Images/html.png" width="60" height="60">
    <img src="Images/css.png" width="60" height="60">
-   <img src="Images/java script.png" width="60" height="70">
+   <img src="Images/java script.png" width="100" height="60">
    <img src="Images/mysql.png" width="60" height="60">
    <img src="Images/visual stodio.png" width="60" height="60">
    <img src="Images/git.png" width="60" height="60">
